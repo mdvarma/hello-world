@@ -1,4 +1,4 @@
 # hello-world
-my first repository
+my first test hello repository
 
-first change to try commit
+second change to try commit
